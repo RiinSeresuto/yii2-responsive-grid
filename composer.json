@@ -1,0 +1,17 @@
+{
+	"name": "riinseresuto/yii2-responsive-grid",
+	"description": "responsive widget for yii2 gridview",
+	"type": "widget",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Rene Baribal",
+			"email": "renebaribal@gmail.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"riinseresuto\\grid\\": "src/"
+		}
+	}
+}
