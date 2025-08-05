@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-composer require riinseresuto/yii2-responsive-grid"
+composer require "riinseresuto/yii2-responsive-grid:dev-main"
 ```
 
 ## Use
